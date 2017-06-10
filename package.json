@@ -1,0 +1,31 @@
+{
+  "name": "testing-in-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "gulp": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pulkitsinghal/testing-in-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pulkitsinghal/testing-in-nodejs/issues"
+  },
+  "homepage": "https://github.com/pulkitsinghal/testing-in-nodejs#readme",
+  "dependencies": {
+    "gulp": "3.9.1",
+    "gulp-markdown-pdf": "4.0.0",
+    "gulp-watch": "4.3.11"
+  },
+  "engines": {
+    "node": "~6.10.1"
+  },
+  "devDependencies": {
+    "gulp-debounce": "1.0.2"
+  }
+}
